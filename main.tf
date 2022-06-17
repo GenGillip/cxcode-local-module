@@ -10,5 +10,4 @@ terraform {
 
 module "classifier_wrapcodes" {
   source = "./modules/wrapcodes"
-  classifier_wrapcode_names = []
 }
